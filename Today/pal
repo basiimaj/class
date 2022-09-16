@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main ()
+
+{
+char i;
+
+for(i='A'; i=<'M'; ++ i)
+{
+
+printf("%c/n",i);
+
+{
+
+return 0;
+
+}
